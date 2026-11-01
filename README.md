@@ -28,7 +28,6 @@ Tenho experiência em todas as etapas do desenvolvimento, desde o design (Front-
 
 ### 📫 Onde me achar
 - Portfólio: https://andrenunesdev.vercel.app
-- LinkedIn: seu-link-aqui
 - Luanda, Angola
 
 ---
