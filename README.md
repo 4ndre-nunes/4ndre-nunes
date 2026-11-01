@@ -1,4 +1,4 @@
-# André Nunes
+# André Nunes| Dev & Designer 
 
 ![Status](https://img.shields.io/badge/STATUS-FULL_STACK-ff6a00?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
